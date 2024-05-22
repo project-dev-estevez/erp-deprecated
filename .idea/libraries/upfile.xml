@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="upfile">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/js/upfile.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
